@@ -15,6 +15,7 @@ int isTriangle(int a, int b, int c) {
 
 int main() {
     int a, b, c;
+ 
 
     printf("Введіть довжину першої сторони: ");
     scanf("%d", &a);
